@@ -3,6 +3,6 @@
 
 
 
-## [在线预览地址](http://www.zouyang1230.com/project/upload/)
+## [在线预览地址](http://www.imzouyang.com/project/upload/)
 
-![示意图1](http://zouyang1230.com/images/up_sample.jpg)
+![示意图1](http://imzouyang.com/images/up_sample.jpg)
